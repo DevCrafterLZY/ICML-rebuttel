@@ -1,4 +1,4 @@
-### Performance comparison between DAG and GCGNet across multiple datasets with future covariates.  The best results are highlighted in bold.
+### Table: Performance comparison between DAG and GCGNet across multiple datasets with future covariates. The best results are highlighted in bold.
 
 |  Models | Metrics |    DAG    |            |   GCGNet   |            | TimeXer |        |     TFT    |            |    TiDE    |        |  DUET  |        | CrossLinear |        | Amplifier |        | TimeKAN |        | PatchTST |        | DLinear |        |
 |:-------:|:-------:|:---------:|:----------:|:----------:|:----------:|:-------:|:------:|:----------:|:----------:|:----------:|:------:|:------:|:------:|:-----------:|:------:|:---------:|:------:|:-------:|:------:|:--------:|:------:|:-------:|:------:|
@@ -40,7 +40,7 @@
 |         |    30   | **0.309** |   0.408    |   0.401    | **0.384** |  0.387  | 0.416  |   0.409    |   0.414    |   0.411    | 0.432  | 0.365  | 0.432  |    0.340    | 0.417  |   0.333   | 0.416  |  0.325  | 0.390  |  0.374   | 0.445  |  0.316  | 0.410  |
 |         |   Avg   | **0.230** | **0.305** |   0.306    |   0.307    |  0.344  | 0.362  |   0.305    |   0.333    |   0.320    | 0.351  | 0.269  | 0.326  |    0.252    | 0.313  |   0.257   | 0.321  |  0.249  | 0.311  |  0.269   | 0.332  |  0.250  | 0.324  |
 
-### Performance comparison between DAG and GCGNet across multiple datasets without future covariates.  The best results are highlighted in bold.
+### Table: Performance comparison between DAG and GCGNet across multiple datasets without future covariates. The best results are highlighted in bold.
 
 |  Models |  Metrics   |     DAG    |            |   GCGNet   |            |   TimeXer  |            |   TFT  |        |  TiDE  |        |  DUET  |            | CrossLinear |            | Amplifier |        |   TimeKAN  |            | PatchTST |        |   DLinear  |        |
 |:-------:|:---:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:------:|:------:|:------:|:------:|:------:|:----------:|:-----------:|:----------:|:---------:|:------:|:----------:|:----------:|:--------:|:------:|:----------:|:------:|
