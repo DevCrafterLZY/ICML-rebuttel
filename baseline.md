@@ -1,3 +1,4 @@
+### Table: Results of Different Strategies for Utilizing Future Covariates in DUET. The best results are highlighted in bold.
 
 |  DUET|  origin|  | mlp |  |conv |  | cross | |
 | :-----: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :---: | :---: |
@@ -15,6 +16,8 @@
 | Colbun  | **0.148** | **0.198** |0.198|0.266|0.181|0.238| 1.761 | 1.019 |
 |  Rapel  |0.304| **0.306** | **0.269** |0.326|0.303|0.308| 1.355 | 0.858 |
 
+### Table: Results of Different Strategies for Utilizing Future Covariates in CrossLinear. The best results are highlighted in bold.
+
 | CrossLinear | origin |  | mlp |  |conv |  | cross | |
 | :---------: | :----: | :-------: | :-------: | :-------: | :-------: | :-------: | :---: | :---: |
 |Metrics|  mse| mae | mse | mae | mse | mae |  mse  |  mae  |
@@ -30,6 +33,8 @@
 |Sdwpfh2| 0.956  |0.774| **0.620** | **0.596** |0.905|0.740| 1.443 | 0.955 |
 |Colbun | 0.129  |0.195|0.181|0.186| **0.120** | **0.186** | 0.878 | 0.722 |
 | Rapel | 0.240  | **0.299** |0.271|0.310| **0.235** |0.299| 0.526 | 0.574 |
+
+### Table: Results of Different Strategies for Utilizing Future Covariates in Amplifier. The best results are highlighted in bold.
 
 | Amplifier |  origin|  | mlp |  |conv |  | cross | |
 | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :---: | :---: |
@@ -47,6 +52,8 @@
 |  Colbun| **0.152** | **0.210** |0.173|0.246|0.152|0.211| 1.208 | 0.882 |
 |Rapel|0.337|0.348| **0.257** | **0.321** |0.331|0.342| 0.846 | 0.729 |
 
+### Table: Results of Different Strategies for Utilizing Future Covariates in TimeKAN. The best results are highlighted in bold.
+
 | TimeKAN | origin |  | mlp |  |conv |  | cross | |
 | :-----: | :----: | :-------: | :-------: | :-------: | :-------: | :-------: | :---: | :---: |
 | Metrics |  mse| mae | mse | mae | mse | mae |  mse  |  mae  |
@@ -63,6 +70,8 @@
 | Colbun  | 0.201  |0.253| **0.128** | **0.175** |0.172|0.224| 0.433 | 0.490 |
 |  Rapel  | 0.342  |0.337| **0.249** | **0.311** |0.342|0.347| 0.427 | 0.460 |
 
+### Table: Results of Different Strategies for Utilizing Future Covariates in PatchTST. The best results are highlighted in bold.
+
 | PatchTST |  origin|  | mlp |  |conv |  | cross | |
 | :------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :---: | :---: |
 | Metrics  | mse | mae | mse | mae | mse | mae |  mse  |  mae  |
@@ -78,6 +87,8 @@
 | Sdwpfh2  |1.025|0.802| **0.549** | **0.580** |0.977|0.794| 0.899 | 0.783 |
 |  Colbun  |0.150| **0.220** |0.239|0.309| **0.150** |0.236| 1.252 | 0.885 |
 |  Rapel|0.325|0.334| **0.269** | **0.332** |0.348|0.341| 0.791 | 0.688 |
+
+### Table: Results of Different Strategies for Utilizing Future Covariates in DLinear. The best results are highlighted in bold.
 
 | DLinear | origin | | mlp |  |conv |  | cross | |
 | :-----: | :----: | :---: | :-------: | :-------: | :-------: | :-------: | :---: | :---: |

@@ -1,3 +1,5 @@
+### Table: Stability analysis of DAG across multiple random seeds (mean ± standard deviation; best results in bold).
+
 | Dataset | Horizon | DAG (MSE) | DAG (MAE) | TimeXer (MSE) | TimeXer (MAE) | CrossLinear (MSE) | CrossLinear (MAE) | DUET (MSE) | DUET (MAE) | PatchTST (MSE) | PatchTST (MAE) |
 |---------|--------|-----------|-----------|----------------|----------------|--------------------|--------------------|-------------|-------------|----------------|----------------|
 | NP      | 24     | **0.205 ± 0.003** | **0.237 ± 0.005** | 0.236 ± 0.004 | 0.267 ± 0.002 | 0.217 ± 0.007 | 0.269 ± 0.005 | 0.255 ± 0.009 | 0.300 ± 0.014 | 0.258 ± 0.006 | 0.309 ± 0.011 |

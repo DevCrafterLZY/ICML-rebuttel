@@ -1,4 +1,6 @@
-|    Models   | Metrics | DAG (ours) |            |   TimeXer  |            |     TFT    |            |    TiDE    |            |  DUET  |            | CrossLinear |            |  Amplifier |            |   TimeKAN  |            |  PatchTST  |            |   DLinear  |        |
+
+
+|    Models   | Metrics | DAG |            |   TimeXer  |            |     TFT    |            |    TiDE    |            |  DUET  |            | CrossLinear |            |  Amplifier |            |   TimeKAN  |            |  PatchTST  |            |   DLinear  |        |
 |:-----------:|:-------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:------:|:----------:|:-----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:------:|
 |   Datasets  |         |     mse    |     mae    |     mse    |     mae    |     mse    |     mae    |     mse    |     mae    |   mse  |     mae    |     mse     |     mae    |     mse    |     mae    |     mse    |     mae    |     mse    |     mae    |     mse    |   mae  |
 |    ETTh1    |    96   |   0.061    |   0.188    |   0.057    |   0.181    |   0.068    |   0.200    |   0.058    |   0.182    | 0.058  |   0.183    |    0.056    |   0.181    |   0.057    |   0.181    | **0.055** | **0.178** |   0.056    |   0.179    |   0.062    | 0.184  |
